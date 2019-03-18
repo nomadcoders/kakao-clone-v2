@@ -1,1 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 @import "reset.css";
+@import "status-bar.css";
+
+body {
+  background-color: white;
+  padding: 10px 20px;
+  color: #020202;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
