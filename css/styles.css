@@ -1,6 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
 @import "reset.css";
 @import "status-bar.css";
+@import "header.css";
 
 body {
   background-color: white;
@@ -8,4 +9,8 @@ body {
   color: #020202;
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+a {
+  color: inherit;
 }
